@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^14.20.0",
+    "dotenv": "^16.5.0"
+  },
+  "name": "discord-xo-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satyr",
+  "license": "MIT",
+  "description": ""
+}
