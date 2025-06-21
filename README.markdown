@@ -51,11 +51,6 @@ CLIENT_ID=your-client-id-here
 ```bash
 node index.js
 ```
-หรือใช้ **PM2** เพื่อรันแบบต่อเนื่อง:  
-```bash
-npm install -g pm2
-pm2 start index.js --name "discord-xo-bot"
-```
 
 ---
 
